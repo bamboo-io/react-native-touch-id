@@ -1,4 +1,4 @@
-#import <React/RCTBridgeModule.h>
+#import "RCTBridgeModule.h"
 #import <LocalAuthentication/LocalAuthentication.h>
 
 @interface TouchID : NSObject <RCTBridgeModule>
